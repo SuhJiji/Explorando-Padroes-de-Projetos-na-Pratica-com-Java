@@ -9,5 +9,5 @@ Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Pad
 
 ***Tela da API e POST sendo feito***
 
-![API POST]![(2)screencapture-127-0-0-1-8080-swagger-ui-index-html-2022-06-08-18_09_14](https://user-images.githubusercontent.com/104389308/172720557-83a8c07f-3598-4e44-ad67-12d7c0907ad1.png)
+![(2)screencapture-127-0-0-1-8080-swagger-ui-index-html-2022-06-08-18_09_14](https://user-images.githubusercontent.com/104389308/172720557-83a8c07f-3598-4e44-ad67-12d7c0907ad1.png)
 
